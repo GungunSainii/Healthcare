@@ -1,6 +1,6 @@
 # 🏥 Healthcare Records Smart Contract
 
-A secure and decentralized healthcare records management system built on the Ethereum blockchain. This smart contract allows authorized healthcare providers to store and access patient records efficiently, ensuring data privacy and security.
+A secure and decentralized healthcare records management system built on the Educhain blockchain. This smart contract allows authorized healthcare providers to store and access patient records efficiently, ensuring data privacy and security.
 
 ## 🛠 Tech Stack
 
