@@ -14,8 +14,8 @@ const Healthcare = () => {
 
 
     const [providerAddress, setProviderAddress] = useState("");
-    const contractAddress = "0xf14afeb8b3924a67dd33f6f7337c0f2f7bc5b158";
-
+    const contractAddress = "0x74820af160fe299e080a62f262c41ac0e59576bf";
+//0xf14afeb8b3924a67dd33f6f7337c0f2f7bc5b158
     const contractABI = [
         {
             "inputs": [
